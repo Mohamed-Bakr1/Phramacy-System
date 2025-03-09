@@ -1,0 +1,6 @@
+F:\Project System\SharedLibrary\bin\Debug\SharedLibrary.dll
+F:\Project System\SharedLibrary\bin\Debug\SharedLibrary.pdb
+F:\Project System\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+F:\Project System\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+F:\Project System\SharedLibrary\obj\Debug\SharedLibrary.dll
+F:\Project System\SharedLibrary\obj\Debug\SharedLibrary.pdb

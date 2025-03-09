@@ -1,0 +1,13 @@
+F:\Project System\Pharmacy\bin\Debug\Pharmacy.exe.config
+F:\Project System\Pharmacy\bin\Debug\Pharmacy.exe
+F:\Project System\Pharmacy\bin\Debug\Pharmacy.pdb
+F:\Project System\Pharmacy\obj\Debug\Pharmacy.csproj.AssemblyReference.cache
+F:\Project System\Pharmacy\obj\Debug\Pharmacy.Form1.resources
+F:\Project System\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+F:\Project System\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+F:\Project System\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+F:\Project System\Pharmacy\obj\Debug\Pharmacy.exe
+F:\Project System\Pharmacy\obj\Debug\Pharmacy.pdb
+F:\Project System\Pharmacy\bin\Debug\SharedLibrary.dll
+F:\Project System\Pharmacy\bin\Debug\SharedLibrary.pdb
+F:\Project System\Pharmacy\obj\Debug\Pharmacy.csproj.Up2Date

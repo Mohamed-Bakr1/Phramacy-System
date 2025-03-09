@@ -1,0 +1,16 @@
+F:\Project System\From2\bin\Debug\From2.exe.config
+F:\Project System\From2\bin\Debug\From2.exe
+F:\Project System\From2\bin\Debug\From2.pdb
+F:\Project System\From2\bin\Debug\Pharmacy.exe
+F:\Project System\From2\bin\Debug\Pharmacy.pdb
+F:\Project System\From2\bin\Debug\Pharmacy.exe.config
+F:\Project System\From2\obj\Debug\From2.csproj.AssemblyReference.cache
+F:\Project System\From2\obj\Debug\From2.Form2.resources
+F:\Project System\From2\obj\Debug\From2.Properties.Resources.resources
+F:\Project System\From2\obj\Debug\From2.csproj.GenerateResource.cache
+F:\Project System\From2\obj\Debug\From2.csproj.CoreCompileInputs.cache
+F:\Project System\From2\obj\Debug\From2.csproj.Up2Date
+F:\Project System\From2\obj\Debug\From2.exe
+F:\Project System\From2\obj\Debug\From2.pdb
+F:\Project System\From2\bin\Debug\SharedLibrary.dll
+F:\Project System\From2\bin\Debug\SharedLibrary.pdb
